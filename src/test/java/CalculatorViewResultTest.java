@@ -16,7 +16,7 @@ public class CalculatorViewResultTest {
 
     @After
     public void tearDown() throws Exception {
-        calculatorViewEditor.cleanUp();
+        //calculatorViewEditor.cleanUp();
     }
 
     @Test
