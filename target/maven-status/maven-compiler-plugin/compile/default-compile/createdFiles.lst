@@ -1,0 +1,7 @@
+ru\miet\testing\model\ICalculator.class
+ru\miet\testing\presenter\ICalculatorPresenter.class
+ru\miet\testing\Main.class
+ru\miet\testing\presenter\CalculatorPresenter.class
+ru\miet\testing\view\CalculatorView.class
+ru\miet\testing\view\ICalculatorView.class
+ru\miet\testing\model\Calculator.class

@@ -1,0 +1,8 @@
+CalculatorTest.class
+CalculatorPresenterExceptionTest.class
+CalculatorViewDivideExceptionTest.class
+CalculatorPresenterUnitTest.class
+CalculatorViewResultTest.class
+CalculatorViewOperationsTest.class
+CalculatorViewStringExceptionsTest.class
+CalculatorViewTest.class
